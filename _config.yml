@@ -1,7 +1,7 @@
 name: DMCPhotography
 favicon: null
-layout_spectrum: 0.44459738256409764
-typography_spectrum: 0.23907952173613012
+layout_spectrum: 0.87078
+typography_spectrum: 0.4147
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#ffffff'
+    - '#1c110d'
+    - '#5c3100'
+    - '#a56d20'
+    - '#e8a453'
   brandStrength: 0.6392844307702035
   lightness: 0.3243184396997094
   saturation: 0.49063605070114136
-  rhythmicContrast: 0.16801977204158902
+  rhythmicContrast: 0.25
 purpose: []
